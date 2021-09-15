@@ -1,5 +1,7 @@
 # A Visualisation of Victorian Traffic Accidents Data
 
+See dashboard.png for a screenshot of the dashboard
+
 All data used in this Dashboard is avalible online on the Victoria State Government Department of Transport website.
 
 https://vicroadsopendata-vicroadsmaps.opendata.arcgis.com/search?q=crash
@@ -21,3 +23,9 @@ It also provides key insights into data such as in what lighting condition is tr
 
 In additon, this dashboard also provides other information such as whether men or women is more likely to be 
 invloved in traffic accidents.
+
+## Access
+
+To access the live version of the dashboard with interactive map and accidents over time graph, please email
+
+frankfumel@gmail.com
